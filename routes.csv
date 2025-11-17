@@ -1,0 +1,16 @@
+route_id,origin,destination,flight_type,start_month
+1,DEL,MUM,Domestic,2025-01
+2,DEL,BLR,Domestic,2025-01
+3,DEL,HYD,Domestic,2025-01
+4,DEL,DXB,International,2025-01
+5,DEL,SIN,International,2025-01
+6,DEL,BOM,Domestic,2025-02
+7,BLR,MUM,Domestic,2025-03
+8,HYD,BLR,Domestic,2025-04
+9,BLR,DXB,International,2025-04
+10,MUM,SIN,International,2025-05
+11,DEL,GOA,Domestic,2025-06
+12,GOA,BLR,Domestic,2025-06
+13,MUM,DEL,Domestic,2025-06
+14,BLR,MUM,Domestic,2025-07
+15,DEL,DEL,Domestic,2025-07
